@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.div1 {
+    width: 100px;
+    height: 100px;
+    background: transparent;
+    position: relative;
+    -webkit-animation-name: exampleOne; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 6s; /* Safari 4.0 - 8.0 */
+    animation-name: exampleOne;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes exampleOne {
+    0%   {background-color:red; top:0px;}
+    100% {background-color:red; top:250px;}
+}
+
+/* Standard syntax */
+@keyframes exampleOne {
+    0%   {background-color:red; top:0px;}
+    100% {background-color:red; top:250px;}
+}
+
+.div2 {
+    width: 100px;
+    height: 100px;
+    background: transparent;
+    position: relative;
+    -webkit-animation-name: exampleTwo; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 6s; /* Safari 4.0 - 8.0 */
+    animation-name: exampleTwo;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes exampleTwo {
+
+    0% {background-color:transparent;  top:0px;}
+    100%   {background-color:transparent; top:-200px;}
+}
+
+/* Standard syntax */
+@keyframes exampleTwo {
+
+    0% {background-color:transparent; top:0px;}
+    100%   {background-color:transparent; top:-200px;}
+}
+.con{
+z-index: 9999;
+position : absolute;
+}
+.frontImage{width: 100px; height: 100px; background: transparent; }
+
+.backImage{width: 100px; height: 100px; background: transparent; }
+
+</style>
+</head>
+<body>
+
+<div class="div1"><img class="frontImage" src="b1.png" alt="Flowers in Chania"></div>
+<div class="con">Congratulaion</div>
+<div class="div2"><img class="backImage" src="f1.jpg" alt="Flowers in Chania"></div>
+
+</body>
+</html>
