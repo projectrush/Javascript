@@ -1,6 +1,12 @@
+
+  
+
 var outPut = document.getElementById("outPut");
 var result = document.getElementById("result");
 var Myresult = document.getElementById("Myresult");
+
+//data = '[{"name" : "Ashwin", "age" : "20"},{"name" : "Abhinandan", "age" : "20"}]';
+
 
 
 var shoppingList = ["Apple", "papaya", "kiwifruit", "zapote blanco", "huckleberry", "banana", "fig", "lime", "xigua", "vanilla", "yiessas", "tamarind", "umkolo", "quince", "imbu elderberry", "juneberry", "mango", "strawberry", "nectarine", "date", "cherry", "orange", "watermelon", "grape raspberry"];
@@ -59,3 +65,5 @@ function crack(a,b) {
     return a;
   }
 }
+
+
