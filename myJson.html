@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Javascript</title>
+    <script>
+    function google()
+    {      
+      var xhttp = new XMLHttpRequest();
+      xhttp.open("GET", "my.json", true);      
+      xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+           var mydata = JSON.parse(xhttp.response);
+            var go = mydata.view;        
+            
+            for(var mydata in go){          
+              if(mydata == 'name'){
+                document.write("<li>"+ mydata +" => "+go[mydata] +"</li>");
+              }                             
+            }  
+            // for(var mydata in go){              
+            //   document.write("<li>"+mydata+JSON.stringify(go[mydata]) +"</li>");              
+            // }          
+        }
+      };
+      xhttp.send();      
+    }
+
+    </script>
+  </head>
+  <body onload="google()">
+
+    <input type="button" name="name" onclick="google()" value="Click" />
+    <div id="div">
+
+    </div>
+  </body>
+</html>

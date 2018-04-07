@@ -1,0 +1,594 @@
+{
+  "view" : {
+      "id" : "askc-vuqf",
+      "name" : "Previous Standard Product Lists",
+      "attribution" : "Austin Water",
+      "attributionLink" : "http://AustinWater.org",
+      "averageRating" : 0,
+      "category" : "Utilities and City Services",
+      "createdAt" : 1445373204,
+      "description" : "Austin Water’s Standard Products List specifies acceptable manufacturer products for use in the construction of water and wastewater facilities. These products have undergone stringent testing to ensure the safety, reliability and consistency within the Austin Water system",
+      "displayType" : "table",
+      "downloadCount" : 1193,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1509140408,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 27111958,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1509140331,
+      "publicationGroup" : 4980570,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1509140271,
+      "rowsUpdatedBy" : "579b-znrx",
+      "tableId" : 14566377,
+      "totalTimesRated" : 0,
+      "viewCount" : 1006,
+      "viewLastModified" : 1509140331,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 327248783,
+        "name" : "Standard Product Number",
+        "dataTypeName" : "text",
+        "fieldName" : "standard_product_number",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 32136959,
+        "width" : 162,
+        "cachedContents" : {
+          "largest" : "WW-704A",
+          "non_null" : 132,
+          "null" : 0,
+          "top" : [ {
+            "item" : "WW-146",
+            "count" : 20
+          }, {
+            "item" : "WW-243",
+            "count" : 19
+          }, {
+            "item" : "WW-27G",
+            "count" : 18
+          }, {
+            "item" : "WW-298",
+            "count" : 17
+          }, {
+            "item" : "WW-3",
+            "count" : 16
+          }, {
+            "item" : "WW-308",
+            "count" : 15
+          }, {
+            "item" : "WW-308A",
+            "count" : 14
+          }, {
+            "item" : "WW-308C",
+            "count" : 13
+          }, {
+            "item" : "WW-319",
+            "count" : 12
+          }, {
+            "item" : "WW-3A",
+            "count" : 11
+          }, {
+            "item" : "WW-462B",
+            "count" : 10
+          }, {
+            "item" : "WW-511",
+            "count" : 9
+          }, {
+            "item" : "WW-602",
+            "count" : 8
+          }, {
+            "item" : "WW-613",
+            "count" : 7
+          }, {
+            "item" : "WW-614",
+            "count" : 6
+          }, {
+            "item" : "WW-614A",
+            "count" : 5
+          }, {
+            "item" : "WW-618",
+            "count" : 4
+          }, {
+            "item" : "WW-622",
+            "count" : 3
+          }, {
+            "item" : "WW-65",
+            "count" : 2
+          }, {
+            "item" : "WW-65A",
+            "count" : 1
+          } ],
+          "smallest" : "WW-123A"
+        },
+        "format" : { }
+      }, {
+        "id" : 327248784,
+        "name" : "Standard Product URL",
+        "dataTypeName" : "url",
+        "fieldName" : "standard_product_url",
+        "position" : 2,
+        "renderTypeName" : "url",
+        "tableColumnId" : 32136960,
+        "width" : 609,
+        "cachedContents" : {
+          "largest" : {
+            "url" : "http://www.austintexas.gov/sites/default/files/files/ww-27_01-01-17.pdf"
+          },
+          "non_null" : 132,
+          "null" : 0,
+          "top" : [ {
+            "item" : {
+              "url" : "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-462B_04-01-15.pdf"
+            },
+            "count" : 20
+          }, {
+            "item" : {
+              "url" : "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-700B_07_01_14.pdf"
+            },
+            "count" : 19
+          }, {
+            "item" : {
+              "url" : "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-703_07-01-09.pdf"
+            },
+            "count" : 18
+          }, {
+            "item" : {
+              "url" : "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-704_07-01-11.pdf"
+            },
+            "count" : 17
+          }, {
+            "item" : {
+              "url" : "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-704a_07-01-11.pdf"
+            },
+            "count" : 16
+          }, {
+            "item" : {
+              "url" : "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27C_04-01-17.pdf"
+            },
+            "count" : 15
+          }, {
+            "item" : {
+              "url" : "http://www.austintexas.gov/sites/default/files/files/ww-27_01-01-17.pdf"
+            },
+            "count" : 14
+          }, {
+            "item" : {
+              "url" : "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27B_04-01-17.pdf"
+            },
+            "count" : 13
+          }, {
+            "item" : {
+              "url" : "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-511_04-01-17.pdf"
+            },
+            "count" : 12
+          } ],
+          "smallest" : {
+            "url" : "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146F_04-01-16.pdf"
+          }
+        },
+        "format" : { },
+        "subColumnTypes" : [ "url", "description" ]
+      }, {
+        "id" : 327248785,
+        "name" : "Product Description",
+        "dataTypeName" : "text",
+        "fieldName" : "product_description",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 32136961,
+        "width" : 368,
+        "cachedContents" : {
+          "largest" : "Vitrified Clay Pipe ASTM C 1208",
+          "non_null" : 132,
+          "null" : 0,
+          "top" : [ {
+            "item" : "Concrete Manhole Sections",
+            "count" : 20
+          }, {
+            "item" : "Tapping Sleeves: Iron Full-body MJ (4\" and larger)",
+            "count" : 19
+          }, {
+            "item" : "Joint Restraint Gaskets for Ductile Iron Pipe (4 inch to 16 inch)",
+            "count" : 18
+          }, {
+            "item" : "Meter Vaults",
+            "count" : 17
+          }, {
+            "item" : "Fire Hydrants",
+            "count" : 16
+          }, {
+            "item" : "PVC Water Pipe (4\" - 12\" Diameter)",
+            "count" : 15
+          }, {
+            "item" : "Factory Restrained Joint PVC Water Pipe",
+            "count" : 14
+          }, {
+            "item" : "PVC Water Pipe (16-inch diameter)",
+            "count" : 13
+          }, {
+            "item" : "Pressure Reducing Valves",
+            "count" : 12
+          }, {
+            "item" : "Blow-off Valve",
+            "count" : 11
+          }, {
+            "item" : "Air Release/Vacuum Relief Valves for Reclaimed Water",
+            "count" : 10
+          }, {
+            "item" : "Organic Lining for Wastewater Manholes",
+            "count" : 9
+          }, {
+            "item" : "Seamless Copper Tubing",
+            "count" : 8
+          }, {
+            "item" : "Access Doors for Meter Vaults and PRV Vaults",
+            "count" : 7
+          }, {
+            "item" : "Access Doors for Meter Vaults",
+            "count" : 6
+          }, {
+            "item" : "Access Doors 36 Inch by 36 Inch",
+            "count" : 5
+          }, {
+            "item" : "Access Doors for PRV Vaults",
+            "count" : 4
+          }, {
+            "item" : "Access Doors 48 Inch by 72 Inch",
+            "count" : 3
+          }, {
+            "item" : "Ventilation Pipe",
+            "count" : 2
+          }, {
+            "item" : "Miscellaneous Gray Iron Castings",
+            "count" : 1
+          } ],
+          "smallest" : "24 inch Manhole Cover Casting Sets"
+        },
+        "format" : { }
+      }, {
+        "id" : 327248786,
+        "name" : "Revision Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "revision_date",
+        "position" : 4,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 32136962,
+        "width" : 91,
+        "cachedContents" : {
+          "largest" : "2017-04-01T00:00:00",
+          "non_null" : 132,
+          "null" : 0,
+          "top" : [ {
+            "item" : "2012-10-01T00:00:00",
+            "count" : 20
+          }, {
+            "item" : "2012-07-01T00:00:00",
+            "count" : 19
+          }, {
+            "item" : "2015-01-01T00:00:00",
+            "count" : 18
+          }, {
+            "item" : "2016-04-01T00:00:00",
+            "count" : 17
+          }, {
+            "item" : "2014-07-01T00:00:00",
+            "count" : 16
+          }, {
+            "item" : "2011-07-01T00:00:00",
+            "count" : 15
+          }, {
+            "item" : "2015-04-01T00:00:00",
+            "count" : 14
+          }, {
+            "item" : "2016-01-01T00:00:00",
+            "count" : 13
+          }, {
+            "item" : "2014-10-01T00:00:00",
+            "count" : 12
+          }, {
+            "item" : "2014-04-01T00:00:00",
+            "count" : 11
+          }, {
+            "item" : "2004-07-01T00:00:00",
+            "count" : 10
+          }, {
+            "item" : "2009-10-01T00:00:00",
+            "count" : 9
+          }, {
+            "item" : "2013-10-01T00:00:00",
+            "count" : 8
+          }, {
+            "item" : "2015-07-01T00:00:00",
+            "count" : 7
+          }, {
+            "item" : "2014-01-01T00:00:00",
+            "count" : 6
+          }, {
+            "item" : "2009-04-01T00:00:00",
+            "count" : 5
+          }, {
+            "item" : "2012-01-01T00:00:00",
+            "count" : 4
+          }, {
+            "item" : "2013-01-01T00:00:00",
+            "count" : 3
+          }, {
+            "item" : "2013-04-01T00:00:00",
+            "count" : 2
+          }, {
+            "item" : "2017-04-01T00:00:00",
+            "count" : 1
+          } ],
+          "smallest" : "2003-01-02T00:00:00"
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "jsonQuery" : {
+          "order" : [ {
+            "columnFieldName" : "standard_product_number",
+            "ascending" : true
+          } ]
+        },
+        "custom_fields" : {
+          "Additional Information" : {
+            "Department" : "Austin Water",
+            "Frequency" : "Quarterly"
+          },
+          "Catalog" : {
+            "Dataset Page" : ""
+          }
+        },
+        "rowLabel" : "Row",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "579b-znrx",
+        "displayName" : "Erik Luna",
+        "screenName" : "Erik Luna",
+        "type" : "interactive",
+        "flags" : [ "siteMember" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 327248783,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "579b-znrx",
+        "displayName" : "Erik Luna",
+        "screenName" : "Erik Luna",
+        "type" : "interactive",
+        "flags" : [ "siteMember" ]
+      },
+      "tags" : [ "water", "standard product lists", "austin water", "construction", "wastewater" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+},
+  "data" : [ [ 1, "658AC78B-174F-4671-B70F-E85A221162E3", 1, 1509140271, "1007049", 1509140271, "1007049", null, "WW-123A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-123A_10-01-12.pdf", null ], "Swing Check Valves, Air Cushioned", "2012-10-01T00:00:00" ]
+, [ 2, "E8C7906A-3001-4EF6-85DF-80BB447EE6BD", 2, 1509140271, "1007049", 1509140271, "1007049", null, "WW-145A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-145A_07-01-12.pdf", null ], "HDPE Meter Boxes", "2012-07-01T00:00:00" ]
+, [ 3, "484F1CAB-6279-430D-9F5C-0BB58AF80DAB", 3, 1509140271, "1007049", 1509140271, "1007049", null, "WW-146", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146_07-01-12.pdf", null ], "Concrete Manhole Sections", "2012-07-01T00:00:00" ]
+, [ 4, "605AB725-9167-4922-AFFC-73174FB36DEF", 4, 1509140271, "1007049", 1509140271, "1007049", null, "WW-146", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146_01-01-15.pdf", null ], "Concrete Manhole Sections", "2015-01-01T00:00:00" ]
+, [ 5, "89A29727-82A1-496B-ABEB-AB185A58BFF8", 5, 1509140271, "1007049", 1509140271, "1007049", null, "WW-146", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146_04-01-16.pdf", null ], "Concrete Manhole Sections", "2016-04-01T00:00:00" ]
+, [ 6, "B3C0B014-2F50-47CB-A756-626756C859B5", 6, 1509140271, "1007049", 1509140271, "1007049", null, "WW-146A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146A_07-01-14.pdf", null ], "Manhole Seals", "2014-07-01T00:00:00" ]
+, [ 7, "828B0C68-9F6B-4E9F-839D-1905A451908D", 7, 1509140271, "1007049", 1509140271, "1007049", null, "WW-146B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146b_07-01-11.pdf", null ], "Large Diameter Cleanouts (Sampling Port)", "2011-07-01T00:00:00" ]
+, [ 8, "2917DCEB-B04D-43F5-8E95-A8563287667F", 8, 1509140271, "1007049", 1509140271, "1007049", null, "WW-146B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146B_01-01-15.pdf", null ], "Large Diameter Cleanouts (Sampling Port)", "2015-01-01T00:00:00" ]
+, [ 9, "80C609A8-EC75-4F14-8ADA-8EE7964309F4", 9, 1509140271, "1007049", 1509140271, "1007049", null, "WW-146C", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146c_07-01-11.pdf", null ], "Manhole Gaskets", "2011-07-01T00:00:00" ]
+, [ 10, "CAD9A02D-E809-4318-B496-F28F346DB9FA", 10, 1509140271, "1007049", 1509140271, "1007049", null, "WW-146D", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146D_07-01-14.pdf", null ], "Pipe-to-Manhole Connectors", "2014-07-01T00:00:00" ]
+, [ 11, "D29C932C-C9F2-4412-9A79-6792DABE1A68", 11, 1509140271, "1007049", 1509140271, "1007049", null, "WW-146D ", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146D_04-01-15.pdf", null ], "Pipe-to-Manhole Connectors (Normal Service)", "2015-04-01T00:00:00" ]
+, [ 12, "C440729F-C694-44CC-A37A-F2EC60966257", 12, 1509140271, "1007049", 1509140271, "1007049", null, "WW-146E", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146E_04-01-15.pdf", null ], "Pipe-to-Manhole Connectors (High Head)", "2015-04-01T00:00:00" ]
+, [ 13, "88AC2290-3E85-4789-AAD0-8FA92D982847", 13, 1509140271, "1007049", 1509140271, "1007049", null, "WW-146F", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146F_01-01-16.pdf", null ], "Polymer Concrete Manhole Sections", "2016-01-01T00:00:00" ]
+, [ 14, "5C6B8BB3-33A2-4BAE-BBE0-F19FF055CC28", 14, 1509140271, "1007049", 1509140271, "1007049", null, "WW-146F", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-146F_04-01-16.pdf", null ], "Polymer Concrete Manhole Sections", "2016-04-01T00:00:00" ]
+, [ 15, "9EB8FC5A-5A84-42E1-A572-D4FE6B3AE36A", 15, 1509140271, "1007049", 1509140271, "1007049", null, "WW-218", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-218_07-01-12.pdf", null ], "24 inch Manhole Cover Casting Sets", "2012-07-01T00:00:00" ]
+, [ 16, "3FE3BAD9-AE03-4F4B-AE0A-209C53463250", 16, 1509140271, "1007049", 1509140271, "1007049", null, "WW-219", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-219_07-01-12.pdf", null ], "32 inch Manhole Cover Casting Sets", "2012-07-01T00:00:00" ]
+, [ 17, "C4403CC5-B219-4218-8F15-7108DB80C51E", 17, 1509140271, "1007049", 1509140271, "1007049", null, "WW-227", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-227_10-01-14.pdf", null ], "PVC Gravity Sewer Pipe (6 inch to 15 inch)", "2014-10-01T00:00:00" ]
+, [ 18, "0B9E37F5-2496-49D5-93A5-18B6968E481E", 18, 1509140271, "1007049", 1509140271, "1007049", null, "WW-227A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-227A_07-01-14.pdf", null ], "PVC Gravity Sewer Pipe (18 inch to 48 inch)", "2014-07-01T00:00:00" ]
+, [ 19, "BE29587B-C33F-4C4E-88EF-A17D2CEC460C", 19, 1509140271, "1007049", 1509140271, "1007049", null, "WW-227A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-227A_01-01-15.pdf", null ], "PVC Gravity Sewer Pipe (18 inch to 48 inch)", "2015-01-01T00:00:00" ]
+, [ 20, "385F1837-2A31-4DF5-80A2-D6D903603798", 20, 1509140271, "1007049", 1509140271, "1007049", null, "WW-227B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-227B_04-01-14.pdf", null ], "PVC Wastewater Line Fittings", "2014-04-01T00:00:00" ]
+, [ 21, "04F40837-9FDC-4F9E-A0E5-B80D88CFA3BD", 21, 1509140271, "1007049", 1509140271, "1007049", null, "WW-227C", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-227c_07-01-09.pdf", null ], "End Caps for Wastewater Service Lines", "2004-07-01T00:00:00" ]
+, [ 22, "29077135-64AA-45AD-8D87-7941B49272E0", 22, 1509140271, "1007049", 1509140271, "1007049", null, "WW-227D", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-227d_10-01-09.pdf", null ], "PVC Wastewater Service Adaptors", "2009-10-01T00:00:00" ]
+, [ 23, "398CFFA9-62D7-4BB5-B419-8FA50D018E11", 23, 1509140271, "1007049", 1509140271, "1007049", null, "WW-243", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-243_10-01-13.pdf", null ], "Tapping Sleeves: Iron Full-body MJ (4\" and larger)", "2013-10-01T00:00:00" ]
+, [ 24, "2F11A6F9-223D-45FA-9D5D-E11D077AC1E9", 24, 1509140271, "1007049", 1509140271, "1007049", null, "WW-243", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-243_07-01-15.pdf", null ], "Tapping Sleeves: Iron Full-body MJ (4\" and larger)", "2015-07-01T00:00:00" ]
+, [ 25, "0961E464-6E83-4451-B823-3FCE01461F8E", 25, 1509140271, "1007049", 1509140271, "1007049", null, "WW-243", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-243_04-01-16.pdf", null ], "Tapping Sleeves: Iron Full-body MJ (4\" and larger)", "2016-04-01T00:00:00" ]
+, [ 26, "DA2440E5-68FA-487F-89F6-63B6E70F8FF3", 26, 1509140271, "1007049", 1509140271, "1007049", null, "WW-243A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-243A_10-01-13.pdf", null ], "Tapping Sleeves: Steel Full-Body MJ (16\" and larger)", "2013-10-01T00:00:00" ]
+, [ 27, "A20946A9-F4DE-4509-BE1D-B1FF104862F8", 27, 1509140271, "1007049", 1509140271, "1007049", null, "WW-243A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-243A_07-01-15.pdf", null ], "Tapping Sleeves: Steel Full-body MJ (16\" and larger)", "2015-07-01T00:00:00" ]
+, [ 28, "EEED9AE6-241C-492D-AA52-EA1421B0E1AB", 28, 1509140271, "1007049", 1509140271, "1007049", null, "WW-243B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-243B_10-01-13.pdf", null ], "Tapping Sleeves: Steel Full-Body for CSC Pipe", "2013-10-01T00:00:00" ]
+, [ 29, "23F67160-5AEA-4413-8AAB-3548D6204D68", 29, 1509140271, "1007049", 1509140271, "1007049", null, "WW-243B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-243B_07-01-15.pdf", null ], "Tapping Sleeves: Steel Full-body for CSC Pipe", "2015-07-01T00:00:00" ]
+, [ 30, "C9101073-BACC-4A73-856F-080F306B883D", 30, 1509140271, "1007049", 1509140271, "1007049", null, "WW-243C", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-243C_01_01_14.pdf", null ], "Tapping Sleeves: Steel Full-Body for Line Stops", "2014-01-01T00:00:00" ]
+, [ 31, "A4DE0C30-A45E-4EE2-B668-1051284CC7EB", 31, 1509140271, "1007049", 1509140271, "1007049", null, "WW-243D", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-243D_01_01_14.pdf", null ], "Tapping Sleeves: Steel Full-Body for Line Stops on CSC Pipe", "2014-01-01T00:00:00" ]
+, [ 32, "838EF973-840F-403B-87B2-27D6A40759F8", 32, 1509140271, "1007049", 1509140271, "1007049", null, "WW-256", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-256_07-01-11.pdf", null ], "Single Strap Service Clamps", "2011-07-01T00:00:00" ]
+, [ 33, "399F1DA3-A5F8-40CD-8B01-76A6A8FD3DCE", 33, 1509140271, "1007049", 1509140271, "1007049", null, "WW-259", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-259_07-01-09.pdf", null ], "Cutting-in Sleeves", "2009-04-01T00:00:00" ]
+, [ 34, "2CFAB5F2-4D8B-416F-AE80-5F9477BB9DD2", 34, 1509140271, "1007049", 1509140271, "1007049", null, "WW-264", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-264_01-01-12.pdf", null ], "Double Strap Service Clamps", "2012-01-01T00:00:00" ]
+, [ 35, "E868253E-7CD0-498B-BB87-0F5EAC79C875", 35, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27_10-01-13.pdf", null ], "Ductile Iron Pipe and Fittings", "2013-10-01T00:00:00" ]
+, [ 36, "6B3CD9A6-E4A0-48ED-9F67-8A840542EA1F", 36, 1509140271, "1007049", 1509140271, "1007049", null, "WW-275", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-275_01-01-13.pdf", null ], "Ball Valves for Curb Stops", "2013-01-01T00:00:00" ]
+, [ 37, "2372981D-18DD-466D-90F3-E7824D23FFFD", 37, 1509140271, "1007049", 1509140271, "1007049", null, "WW-276", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-276_04-01-13.pdf", null ], "Ball Valves for Property Owner Cutoff", "2013-04-01T00:00:00" ]
+, [ 38, "225DA039-523E-4415-8DB7-1F6B31C6815C", 38, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27A", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27A_04-01-17.pdf", null ], "Joint Restraint Devices, 4 inch through 16 inch Diameter", "2017-04-01T00:00:00" ]
+, [ 39, "5A8EDE2A-0DBA-4A66-9D4C-4B5895DC6052", 39, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27A_10-01-13.pdf", null ], "Joint Restraint Devices, 4 inch through 16 inch Diameter", "2013-10-01T00:00:00" ]
+, [ 40, "2529A7D0-67AD-4040-B6B3-6BB3A5591A83", 40, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27B_10-01-13.pdf", null ], "Compact Ductile Iron Fittings", "2013-10-01T00:00:00" ]
+, [ 41, "B81955B6-F3F2-4585-8AAA-BAB939C7128D", 41, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27C", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27c_04-01-10.pdf", null ], "Ductile Iron MJ Fittings Weight Schedule", "2010-04-01T00:00:00" ]
+, [ 42, "2FCF3D01-8F77-49DB-A686-B9F32B9FD25E", 42, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27D", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27d_07-01-09.pdf", null ], "Polyethylene Encasement for Ductile Iron Pipe", "2007-01-01T00:00:00" ]
+, [ 43, "3F650AC5-C257-40B3-836F-1732C45915FD", 43, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27E", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27E_10-01-13.pdf", null ], "Flanged Ductile Iron Pipe AWWA C115", "2013-10-01T00:00:00" ]
+, [ 44, "5CDA559F-FAF6-4F0D-9F3D-899F8C108C6F", 44, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27F", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27F_10-01-13.pdf", null ], "Restrained Joint Ductile Iron Pipe and Fittings", "2013-10-01T00:00:00" ]
+, [ 45, "455028CA-5FEA-4C5E-9814-AADD244EE86B", 45, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27F", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27F_10-01-13.pdf", null ], "Restrained Joint Ductile Iron Pipe and Fittings", "2013-10-01T00:00:00" ]
+, [ 46, "2E604CE8-CF77-40B7-A8FA-7383B8FA272A", 46, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27G", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27G_04-01-17.pdf", null ], "Joint Restraint Gaskets for Ductile Iron Pipe (4 inch to 16 inch)", "2017-04-01T00:00:00" ]
+, [ 47, "666C19A1-A94B-4D77-9988-3CBF8121030E", 47, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27G", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27G_04-01-13.pdf", null ], "Joint Restraint Gaskets for Ductile Iron Pipe (4 inch to 16 inch)", "2013-04-01T00:00:00" ]
+, [ 48, "5B62BBC8-2FC2-4B7C-90BB-A4BCDD3D21CF", 48, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27G", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27G_07-01-15.pdf", null ], "Joint Restraint Gaskets for Ductile Iron Pipe (4 inch to 16 inch)", "2015-07-01T00:00:00" ]
+, [ 49, "52717FC3-1D7E-4643-BF50-6AE108F95E08", 49, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27G", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27G_04-01-16.pdf", null ], "Joint Restraint Gaskets for Ductile Iron Pipe (4 inch to 16 inch)", "2016-04-01T00:00:00" ]
+, [ 50, "186D4D45-9865-4C75-93CF-9EA6C6B8146F", 50, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27H", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27h_04-01-10.pdf", null ], "Disinfecting Chemicals for Potable Water Lines", "2010-04-01T00:00:00" ]
+, [ 51, "6849A936-B92D-4C20-9A62-0CF1DF2566DB", 51, 1509140271, "1007049", 1509140271, "1007049", null, "WW-282", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-282_01-01-11.pdf", null ], "Resilient-Seated Gate Valves, AWWA C509", "2011-01-01T00:00:00" ]
+, [ 52, "1493CD7E-FC64-4CD3-A48B-1520DAA6309B", 52, 1509140271, "1007049", 1509140271, "1007049", null, "WW-283", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-283_04-01-14.pdf", null ], "Concrete Steel Cylinder Pipe", "2014-04-01T00:00:00" ]
+, [ 53, "4A0949DF-71DA-4792-B732-C8E02B4DA31C", 53, 1509140271, "1007049", 1509140271, "1007049", null, "WW-292", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-292_10-01-12.pdf", null ], "Reduced Pressure Backflow Preventer", "2012-10-01T00:00:00" ]
+, [ 54, "74257335-4B0A-40C0-BDDA-EB67CB76FFCD", 54, 1509140271, "1007049", 1509140271, "1007049", null, "WW-293", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-293_10-01-12.pdf", null ], "Double Check Valve Backflow Preventer", "2012-10-01T00:00:00" ]
+, [ 55, "10EA060E-7AAB-4091-9330-4FDAE01AACDF", 55, 1509140271, "1007049", 1509140271, "1007049", null, "WW-298", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-298_10-01-13.pdf", null ], "Meter Vaults", "2013-10-01T00:00:00" ]
+, [ 56, "1CC67BE7-85A0-4F2B-A1BC-614BB5B4BF14", 56, 1509140271, "1007049", 1509140271, "1007049", null, "WW-298", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-298_01-01-15.pdf", null ], "Meter Vaults", "2015-01-01T00:00:00" ]
+, [ 57, "E5E56E0B-5CE0-4837-ACA4-9634EF959D14", 57, 1509140271, "1007049", 1509140271, "1007049", null, "WW-298", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-298_07-01-16.pdf", null ], "Meter Vaults", "2016-07-01T00:00:00" ]
+, [ 58, "D00F7028-E129-4356-BE12-905A0F283D92", 58, 1509140271, "1007049", 1509140271, "1007049", null, "WW-3", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-3_04-01-13.pdf", null ], "Fire Hydrants", "2013-04-01T00:00:00" ]
+, [ 59, "0C7E78D7-92EC-4BD1-92AA-10B457D32355", 59, 1509140271, "1007049", 1509140271, "1007049", null, "WW-3", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-3_01-01-15.pdf", null ], "Fire Hydrants", "2015-01-01T00:00:00" ]
+, [ 60, "306BA93C-3AC7-4D94-B8A9-4473C6CF0EE2", 60, 1509140271, "1007049", 1509140271, "1007049", null, "WW-308", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-308_04-01-14.pdf", null ], "PVC Water Pipe (4\" - 12\" Diameter)", "2014-04-01T00:00:00" ]
+, [ 61, "9BA71182-3445-48BF-BB5A-D04833AFCCA5", 61, 1509140271, "1007049", 1509140271, "1007049", null, "WW-308", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-308_01-01-15.pdf", null ], "PVC Water Pipe (4\" - 12\" Diameter)", "2015-01-01T00:00:00" ]
+, [ 62, "20A4B89C-FA9E-4990-A742-E7B8A80A30B2", 62, 1509140271, "1007049", 1509140271, "1007049", null, "WW-308", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-308_10-01-15.pdf", null ], "PVC Water Pipe (4\" - 12\" Diameter)", "2015-10-01T00:00:00" ]
+, [ 63, "B6827295-E096-429C-882F-2CF107C634E6", 63, 1509140271, "1007049", 1509140271, "1007049", null, "WW-308", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-308_04-01-16.pdf", null ], "PVC Water Pipe (4\" - 12\" Diameter)", "2016-04-01T00:00:00" ]
+, [ 64, "75FEA0AB-3FA9-4A60-9EC3-32588583EF43", 64, 1509140271, "1007049", 1509140271, "1007049", null, "WW-308A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-308A_04_01_12.pdf", null ], "Factory Restrained Joint PVC Water Pipe", "2012-04-01T00:00:00" ]
+, [ 65, "258E5C1C-0F38-43FD-B275-B53953B0AA7B", 65, 1509140271, "1007049", 1509140271, "1007049", null, "WW-308A", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-308A_10-01-15.pdf", null ], "Factory Restrained Joint PVC Water Pipe", "2015-10-01T00:00:00" ]
+, [ 66, "47D6961F-FB03-43B2-9F58-79A397406F13", 66, 1509140271, "1007049", 1509140271, "1007049", null, "WW-308A", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-308A_04-01-16.pdf", null ], "Factory Restrained Joint PVC Water Pipe", "2016-04-01T00:00:00" ]
+, [ 67, "EF702680-A72B-4886-8076-CD9C0E7808F5", 67, 1509140271, "1007049", 1509140271, "1007049", null, "WW-308B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-308B_04-01-12.pdf", null ], "Factory Restrained Joint PVC Water Pipe Fittings (4\" to 12\" Diameter)", "2012-04-01T00:00:00" ]
+, [ 68, "B19CFBB3-7938-47D2-9B76-54F2CB857D72", 68, 1509140271, "1007049", 1509140271, "1007049", null, "WW-308C", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-308C_04-01-13.pdf", null ], "PVC Water Pipe (16-inch diameter)", "2013-04-01T00:00:00" ]
+, [ 69, "87876DBD-5946-4A25-A81A-B4210DE06291", 69, 1509140271, "1007049", 1509140271, "1007049", null, "WW-308C", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-308C_10-01-15.pdf", null ], "PVC Water Pipe (16-inch diameter)", "2015-10-01T00:00:00" ]
+, [ 70, "D957B4EC-4292-4700-BB3E-2E569BF90F49", 70, 1509140271, "1007049", 1509140271, "1007049", null, "WW-308C", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-308C_04-01-16.pdf", null ], "PVC Water Pipe (16-inch diameter)", "2016-04-01T00:00:00" ]
+, [ 71, "04DC5F0C-1910-4770-946A-6F1BF86F2A99", 71, 1509140271, "1007049", 1509140271, "1007049", null, "WW-319", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-319_10-01-12.pdf", null ], "Pressure Reducing Valves", "2012-10-01T00:00:00" ]
+, [ 72, "FF134205-458D-4000-85F5-58F3E81994F4", 72, 1509140271, "1007049", 1509140271, "1007049", null, "WW-319", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-319_10-01-12.pdf", null ], "Pressure Reducing Valves", "2012-10-01T00:00:00" ]
+, [ 73, "EE1DE00E-56EA-4C3A-AC9E-7B575E2D0C90", 73, 1509140271, "1007049", 1509140271, "1007049", null, "WW-319A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-319a_01-01-12.pdf", null ], "Strainers", "2012-01-01T00:00:00" ]
+, [ 74, "2A38BCDF-2EF3-465F-87FE-327CFC58D2A3", 74, 1509140271, "1007049", 1509140271, "1007049", null, "WW-354", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-354_10-01-14.pdf", null ], "Semi-Rigid Coupling and Adapters", "2014-10-01T00:00:00" ]
+, [ 75, "1BCF9548-D04F-45DF-B44F-81D8291973DA", 75, 1509140271, "1007049", 1509140271, "1007049", null, "WW-367", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-367_10-01-12.pdf", null ], "Air Release Valves for Water", "2012-10-01T00:00:00" ]
+, [ 76, "14124840-DC04-4C44-B24D-ADC4173BC59F", 76, 1509140271, "1007049", 1509140271, "1007049", null, "WW-3A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-3a_04-01-11.pdf", null ], "Blow-off Valve", "2011-04-01T00:00:00" ]
+, [ 77, "4762B00A-905E-4D34-B375-5B24A93435A4", 77, 1509140271, "1007049", 1509140271, "1007049", null, "WW-3A", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-3A_04-01-16.pdf", null ], "Blow-off Valve", "2016-04-01T00:00:00" ]
+, [ 78, "6C59349B-E6D5-4C61-B956-E3BF0829E11E", 78, 1509140271, "1007049", 1509140271, "1007049", null, "WW-3B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-3b_01_01_11.pdf", null ], "Automatic Flushing Valve", "2011-01-01T00:00:00" ]
+, [ 79, "76D916D8-4987-4576-AFCD-A718783BEA36", 79, 1509140271, "1007049", 1509140271, "1007049", null, "WW-3C", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-3C_01-01-13.pdf", null ], "Paint", "2013-01-01T00:00:00" ]
+, [ 80, "F7F00D2D-8220-4C77-9CA7-8632CFED21A1", 80, 1509140271, "1007049", 1509140271, "1007049", null, "WW-462", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-462_04-01-10.pdf", null ], "Air Release/Vacuum Relief Valves for Wastewater", "2010-04-01T00:00:00" ]
+, [ 81, "A4E23B32-E4F3-4F79-A655-B5AC8988A933", 81, 1509140271, "1007049", 1509140271, "1007049", null, "WW-462A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-462A_10-01-12.pdf", null ], "Air Release/Vacuum Relief Valves for Potable Water", "2012-10-01T00:00:00" ]
+, [ 82, "AD520A39-2165-4A24-9147-BAF34B62568E", 82, 1509140271, "1007049", 1509140271, "1007049", null, "WW-462B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-462b_04-01-10.pdf", null ], "Air Release/Vacuum Relief Valves for Reclaimed Water", "2010-04-01T00:00:00" ]
+, [ 83, "95456BE3-EB2C-4064-81B9-61888B120480", 83, 1509140271, "1007049", 1509140271, "1007049", null, "WW-462B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-462B_04-01-15.pdf", null ], "Air Release/Vacuum Relief Valves for Reclaimed Water", "2015-04-01T00:00:00" ]
+, [ 84, "AF40CD60-8B46-4890-B9EE-2F117854AF8C", 84, 1509140271, "1007049", 1509140271, "1007049", null, "WW-462B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-462B_04-01-15.pdf", null ], "Air Release/Vacuum Relief Valves for Reclaimed Water", "2015-10-01T00:00:00" ]
+, [ 85, "42B6EB8F-FA24-4ADE-9785-180B542660D1", 85, 1509140271, "1007049", 1509140271, "1007049", null, "WW-488R", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-488R_04-01-13.pdf", null ], "Threaded Restraining Rod (HSLA)", "2013-04-01T00:00:00" ]
+, [ 86, "DB1C79A1-CDA4-4884-8CE8-5F1F0542880C", 86, 1509140271, "1007049", 1509140271, "1007049", null, "WW-488T", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-488t_07-01-09.pdf", null ], "T-Head Bolts", "2006-07-01T00:00:00" ]
+, [ 87, "608394EF-378E-46CA-9B1B-7382DA05C00A", 87, 1509140271, "1007049", 1509140271, "1007049", null, "WW-506", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-506_07-01-11.pdf", null ], "Transition Couplings", "2011-07-01T00:00:00" ]
+, [ 88, "CCB7E16B-A17B-4D74-A115-4F479ACC6CFA", 88, 1509140271, "1007049", 1509140271, "1007049", null, "WW-506A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-506A_10-01-14.pdf", null ], "Transition Couplings, Wide Range", "2014-10-01T00:00:00" ]
+, [ 89, "FC506DF9-689B-4ECA-AF92-494D9B743E52", 89, 1509140271, "1007049", 1509140271, "1007049", null, "WW-509", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-509_01-01-14.pdf", null ], "Fiberglass Pipe for Wastewater", "2014-01-01T00:00:00" ]
+, [ 90, "5EE76368-D85A-4920-AB1E-ACFEB3F236D8", 90, 1509140271, "1007049", 1509140271, "1007049", null, "WW-511", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-511_07-01-14.pdf", null ], "Organic Lining for Wastewater Manholes", "2014-07-01T00:00:00" ]
+, [ 91, "B03EB4E6-984D-410D-8D90-3FA67C8DA772", 91, 1509140271, "1007049", 1509140271, "1007049", null, "WW-511", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-511_10-01-15.pdf", null ], "Organic Lining for Wastewater Manholes", "2015-10-01T00:00:00" ]
+, [ 92, "0FC4EF64-D547-4450-9243-4F65DB589233", 92, 1509140271, "1007049", 1509140271, "1007049", null, "WW-511A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-511A_01-01-14.pdf", null ], "Structural Lining for Wastewater Manholes", "2014-01-01T00:00:00" ]
+, [ 93, "881B52B7-B866-4B13-8157-E1790150E953", 93, 1509140271, "1007049", 1509140271, "1007049", null, "WW-511B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-511b_07-01-09.pdf", null ], "Cementitious Lining for Wastewater Manholes", "2008-04-01T00:00:00" ]
+, [ 94, "3D12945B-AF90-41D8-AFFD-03B5349BC5FB", 94, 1509140271, "1007049", 1509140271, "1007049", null, "WW-534", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-534_10-01-13.pdf", null ], "Linings for Ductile Iron Wastewater Pipe", "2013-10-01T00:00:00" ]
+, [ 95, "CE2C182A-68D6-4206-9710-85E7AEBF6AF0", 95, 1509140271, "1007049", 1509140271, "1007049", null, "WW-575", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-575_10-01-14.pdf", null ], "Casing Spacers", "2014-10-01T00:00:00" ]
+, [ 96, "7C028E93-2177-41DD-93C2-F643EBAB7724", 96, 1509140271, "1007049", 1509140271, "1007049", null, "WW-575A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-575A_10-01-14.pdf", null ], "End Seals for Encasement Pipe", "2014-10-01T00:00:00" ]
+, [ 97, "5AC41E2C-C54E-4AB3-8436-67686C67B3D8", 97, 1509140271, "1007049", 1509140271, "1007049", null, "WW-575B", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-575B_04-01-16.pdf", null ], "Casing Spacers, Joint Restraint Type", "2016-04-01T00:00:00" ]
+, [ 98, "A731C64D-5F4C-4749-8A65-52D7BA11679F", 98, 1509140271, "1007049", 1509140271, "1007049", null, "WW-587", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-587_01-01-10.pdf", null ], "PVC Pipe Schedule 80", "2010-01-01T00:00:00" ]
+, [ 99, "441E878E-A259-4DC8-A6C0-402AD2835F32", 99, 1509140271, "1007049", 1509140271, "1007049", null, "WW-587A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-587a_07-01-09.pdf", null ], "PVC Fittings Schedule 80", "2005-07-01T00:00:00" ]
+, [ 100, "28DA0541-57B2-41A7-9392-A31D9B2EA457", 100, 1509140271, "1007049", 1509140271, "1007049", null, "WW-597", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-597_07-01-13.pdf", null ], "Tracer Tape", "2013-07-01T00:00:00" ]
+, [ 101, "668DEA08-2B20-416E-BE42-B1A08C24DE3E", 101, 1509140271, "1007049", 1509140271, "1007049", null, "WW-602", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-602_07-01-14__3_.pdf", null ], "Ductile Iron Wastewater Pipe", "2014-07-01T00:00:00" ]
+, [ 102, "DF8DF805-1A76-4E97-BA5D-6B361D853609", 102, 1509140271, "1007049", 1509140271, "1007049", null, "WW-613", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-613_07-01-12.pdf", null ], "Seamless Copper Tubing", "2011-10-01T00:00:00" ]
+, [ 103, "0F42DD09-1538-4BE6-8DB6-248C7CE9D3F4", 103, 1509140271, "1007049", 1509140271, "1007049", null, "WW-614", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-614_01-01-15.pdf", null ], "Access Doors for Meter Vaults and PRV Vaults", "2015-01-01T00:00:00" ]
+, [ 104, "8B475D71-DA7D-4EB3-8B5F-E57D29810C99", 104, 1509140271, "1007049", 1509140271, "1007049", null, "WW-614", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-614_04-01-15.pdf", null ], "Access Doors for Meter Vaults", "2015-04-01T00:00:00" ]
+, [ 105, "1780D572-4B57-44DC-B552-868806805223", 105, 1509140271, "1007049", 1509140271, "1007049", null, "WW-614", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-614_07-01-11.pdf", null ], "Access Doors for Meter Vaults and PRV Vaults", "2011-07-01T00:00:00" ]
+, [ 106, "E37DFEA7-977E-4410-82D0-118D94A061D5", 106, 1509140271, "1007049", 1509140271, "1007049", null, "WW-614", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-614_10-01-15.pdf", null ], "Access Doors 36 Inch by 36 Inch", "2015-10-01T00:00:00" ]
+, [ 107, "A3CC5C18-2318-41B2-B727-EE9F6C17DD4D", 107, 1509140271, "1007049", 1509140271, "1007049", null, "WW-614A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-614A_04-01-15.pdf", null ], "Access Doors for PRV Vaults", "2015-04-01T00:00:00" ]
+, [ 108, "C7E9DA8E-B3D6-4C13-A804-9F43D425E32A", 108, 1509140271, "1007049", 1509140271, "1007049", null, "WW-614A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-614A_10-01-15.pdf", null ], "Access Doors 48 Inch by 72 Inch", "2015-10-01T00:00:00" ]
+, [ 109, "28577118-53EA-49CC-AA7F-DA48EC82E2D4", 109, 1509140271, "1007049", 1509140271, "1007049", null, "WW-618", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-618_07-01-09.pdf", null ], "Ventilation Pipe", "2005-04-01T00:00:00" ]
+, [ 110, "E83605CC-06BB-4E30-8BA0-CBE6FE189211", 110, 1509140271, "1007049", 1509140271, "1007049", null, "WW-622", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-622_01-01-14.pdf", null ], "Miscellaneous Gray Iron Castings", "2014-01-01T00:00:00" ]
+, [ 111, "40C55C3A-CA99-44CB-ABE2-F38EF79C68D0", 111, 1509140271, "1007049", 1509140271, "1007049", null, "WW-622", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-622_10-01-15.pdf", null ], "Miscellaneous Gray Iron Castings", "2015-10-01T00:00:00" ]
+, [ 112, "DECD9FCB-8B86-4889-95A6-5E2DF5A99BED", 112, 1509140271, "1007049", 1509140271, "1007049", null, "WW-65", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-65_10-01-14.pdf", null ], "Polyethylene Tubing for Potable Water Services", "2014-10-01T00:00:00" ]
+, [ 113, "2604CC84-CC9D-47B5-8BA7-049FB340920C", 113, 1509140271, "1007049", 1509140271, "1007049", null, "WW-65", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-65_07-01-15.pdf", null ], "Polyethylene Tubing for Potable Water Services", "2015-07-01T00:00:00" ]
+, [ 114, "A408D6A2-4A3D-424B-9B21-B11ABB9AF0D4", 114, 1509140271, "1007049", 1509140271, "1007049", null, "WW-65A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-65A_04-01-12.pdf", null ], "Polyethylene Tubing for Reclaimed Water Services", "2012-04-01T00:00:00" ]
+, [ 115, "4597A60A-0BAC-4B6C-BE7F-9CC2B6750702", 115, 1509140271, "1007049", 1509140271, "1007049", null, "WW-65A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-65A_04-01-15.pdf", null ], "Polyethylene Tubing for Reclaimed Water Services", "2015-04-01T00:00:00" ]
+, [ 116, "D056D1C9-9683-4136-8D5D-D838FACED8D0", 116, 1509140271, "1007049", 1509140271, "1007049", null, "WW-65B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-65b_01-01-10.pdf", null ], "Insert Stiffeners for Polyethylene Tubing", "2010-01-01T00:00:00" ]
+, [ 117, "B4D63B72-3EF8-45D4-B63A-D68DC0816FAF", 117, 1509140271, "1007049", 1509140271, "1007049", null, "WW-65C", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-65C_04-01-12.pdf", null ], "Polyethylene Tubing for Low Pressure Sewer", "2012-04-01T00:00:00" ]
+, [ 118, "0EFA863C-0564-4AAA-919B-5C2CE494A4A9", 118, 1509140271, "1007049", 1509140271, "1007049", null, "WW-68", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-68_01-01-13.pdf", null ], "Brass Goods", "2013-01-01T00:00:00" ]
+, [ 119, "A7CEC771-4163-481E-9AD4-DA0D20E167EF", 119, 1509140271, "1007049", 1509140271, "1007049", null, "WW-700", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-700_10-01-14.pdf", null ], "Resilient-Seated Gate Valves, AWWA C515", "2014-10-01T00:00:00" ]
+, [ 120, "F6B16C08-4404-46F8-9E18-D2A5522FB55D", 120, 1509140271, "1007049", 1509140271, "1007049", null, "WW-700A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-700A_07-01-14.pdf", null ], "Gate Valve Actuators, Manual", "2014-07-01T00:00:00" ]
+, [ 121, "2634722C-132F-47D3-A0A4-D7DB440E5FDE", 121, 1509140271, "1007049", 1509140271, "1007049", null, "WW-700B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-700B_07_01_14.pdf", null ], "Insert Valves", "2014-07-01T00:00:00" ]
+, [ 122, "716B8098-8E85-43C7-B686-0B9AE52CBC00", 122, 1509140271, "1007049", 1509140271, "1007049", null, "WW-700B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-700B_07_01_14.pdf", null ], "Insert Valves", "2015-07-01T00:00:00" ]
+, [ 123, "EBCE5C85-2D25-4428-A252-89BC2AE69F76", 123, 1509140271, "1007049", 1509140271, "1007049", null, "WW-700B", [ "http://austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-700B_04_01_16.pdf", null ], "Insert Valves", "2016-04-01T00:00:00" ]
+, [ 124, "830F2C74-C471-466C-B095-490727EA270F", 124, 1509140271, "1007049", 1509140271, "1007049", null, "WW-701", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-701_07-01-09.pdf", null ], "Manhole Inserts", "2003-01-02T00:00:00" ]
+, [ 125, "20B79D0C-7C42-4480-9D97-6ECE8C0CA7C8", 125, 1509140271, "1007049", 1509140271, "1007049", null, "WW-702", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-702_04-01-10.pdf", null ], "Vitrified Clay Pipe ASTM C 1208", "2010-04-01T00:00:00" ]
+, [ 126, "B25769AA-B010-4286-8E6C-E687BD281423", 126, 1509140271, "1007049", 1509140271, "1007049", null, "WW-703", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-703_07-01-09.pdf", null ], "Manhole Adjusting Rings, HDPE", "2007-01-01T00:00:00" ]
+, [ 127, "42E37680-5D48-41D9-AB33-E0EAD6F35EA6", 127, 1509140271, "1007049", 1509140271, "1007049", null, "WW-704", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-704_07-01-11.pdf", null ], "Packaged Concrete Mix", "2011-07-01T00:00:00" ]
+, [ 128, "AF96F0EC-3495-4952-A0E4-1063B2B15466", 128, 1509140271, "1007049", 1509140271, "1007049", null, "WW-704A", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-704a_07-01-11.pdf", null ], "Packaged Non-Shrink Grout Mix", "2011-07-01T00:00:00" ]
+, [ 129, "5EDBC5BC-6408-4480-8F04-45C46B93EEF9", 129, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27C", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27C_04-01-17.pdf", null ], "Ductile Iron Fittings", "2017-04-01T00:00:00" ]
+, [ 130, "09E9CF57-73FE-4D8B-87FD-86C8B8504806", 130, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27", [ "http://www.austintexas.gov/sites/default/files/files/ww-27_01-01-17.pdf", null ], "Ductile Iron Pipe", "2017-01-01T00:00:00" ]
+, [ 131, "C1EE2615-2DED-4CB1-A8D4-CB1C0BB07AE1", 131, 1509140271, "1007049", 1509140271, "1007049", null, "WW-27B", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-27B_04-01-17.pdf", null ], "Compact Ductile Iron Fittings and Fitting Weight Schedule", "2017-04-01T00:00:00" ]
+, [ 132, "39886F1F-BA4D-4747-BDCA-290763CE3F82", 132, 1509140271, "1007049", 1509140271, "1007049", null, "WW-511", [ "http://www.austintexas.gov/sites/default/files/files/Water/Standard_Products/ww-511_04-01-17.pdf", null ], "Organic Lining for Wastewater Manholes", "2017-04-01T00:00:00" ]
+ ]
+}
