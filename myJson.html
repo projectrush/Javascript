@@ -3,20 +3,34 @@
   <head>
     <meta charset="utf-8">
     <title>Javascript</title>
+    <style>
+    div{
+    border: 2px solid  #cfcfcf;
+    }
+    </style>
     <script>
     function google()
     {      
       var xhttp = new XMLHttpRequest();
-      xhttp.open("GET", "my.json", true);      
+      xhttp.open("GET", "data.json", true);      
       xhttp.onreadystatechange = function () {
         if (xhttp.readyState == 4 && xhttp.status == 200) {
            var mydata = JSON.parse(xhttp.response);
-            var go = mydata.view;        
+            var go = mydata.array.students.student;        
             
-            for(var mydata in go){          
-              if(mydata == 'name'){
-                document.write("<li>"+ mydata +" => "+go[mydata] +"</li>");
-              }                             
+            for(var mydata in go){
+             // alert(go[mydata].phones.main.number);
+                if(go[mydata].id == 2){
+                //document.write("<li>"+ mydata +" => "+JSON.stringify(go[mydata])+"</li>");
+                document.getElementById("myText").value = go[mydata].name.first_name;
+                document.write("<div style='border: 2px solid  #cfcfcf;'><p>"+ go[mydata].name.first_name +" "+go[mydata].name.last_name+"</p></div>");
+                document.write("<div style='border: 2px solid  #cfcfcf;'><p>"+go[mydata].phones.main.number+"</p></div>");
+                for(var stdData  in go[mydata].school_enrollment){
+                  document.write("<div style='border: 2px solid  #cfcfcf;'><p>"+stdData+"=>"+go[mydata].school_enrollment[stdData]+"</p></div>");             
+                }
+                
+              }    
+                                           
             }  
             // for(var mydata in go){              
             //   document.write("<li>"+mydata+JSON.stringify(go[mydata]) +"</li>");              
@@ -32,7 +46,7 @@
 
     <input type="button" name="name" onclick="google()" value="Click" />
     <div id="div">
-
+      <input type="text" id="myText" value="Mickey">
     </div>
   </body>
 </html>
